@@ -97,8 +97,6 @@ input:hover{
     justify-content: flex-end;
 }
 
-/* --- Responsive Design --- */
-
 @media (max-width: 600px){
     input {
         width: 100%;
